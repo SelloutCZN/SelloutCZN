@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SelloutCZN, in real life I go by Yichen (or Benjamin if you're my doctor)
-- 👀 I’m interested in Basketball and VALORANT (among other video games)
-- 🌱 I’m currently learning Python! I'm also studying a Bachelors in Mechanical Engineering
-- 💞️ I'm in an exploratory phase right now, currently learning coding with application to automation and data science at the moment
+- 👀 I’m passionate about Sports, Music, Photography, and a plethora of video games
+- 🌱 I’m currently learning C/C++/C#, Linux/Ubuntu, and Python as part of my studies in MSc Robotics
+- 💞️ I'm currently learning coding with application to automation, robotics, and machine learning
 - 📫 You can reach me at yichenlinzhou@gmail.com
 
 <!---
