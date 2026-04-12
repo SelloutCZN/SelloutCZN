@@ -8,7 +8,7 @@ ______________________________________________
 # Highlights
 ## E-Puck robot navigation (2025)
 *Repository* : https://github.com/SelloutCZN/ePuckNavigation
- - Designed and wrote C code for robot to navigate obstacles and objects
+ - Designed and developed code for a robot to navigate obstacles and objects
  - Utilized a variety of time-of-flight sensors, as well as state-space machines
 <!---
 SelloutCZN/SelloutCZN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
