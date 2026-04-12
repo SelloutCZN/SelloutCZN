@@ -1,7 +1,7 @@
 Hi, I’m @SelloutCZN, in real life I go by Benjamin
+- 🤖 I write code with application to robotics and machine learning
+- 🎓 I’m practicing C/C++/C#, Linux/Ubuntu, ROS2, and Python as part of my studies in MSc Robotics
 - 👀 I’m passionate about Sports, Music, Photography, and a plethora of video games
-- 🌱 I’m practicing C/C++/C#, Linux/Ubuntu, ROS2, and Python as part of my studies in MSc Robotics
-- 💞️ I'm learning coding with application to automation, robotics, and machine learning
 - 📫 You can reach me at yichenlinzhou@gmail.com
 
 ______________________________________________
