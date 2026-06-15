@@ -10,6 +10,11 @@ ______________________________________________
 *Repository* : https://github.com/SelloutCZN/ePuckNavigation
  - Designed and developed code for a robot to navigate obstacles and objects
  - Utilized a variety of time-of-flight sensors, as well as state-space machines
+
+## TurtleBot3 Waffle navigation (2026)
+*Repository*: https://github.com/SelloutCZN/WaffleBotNavigation
+- Designed and developed code for a TurtleBot Waffle to autonomously explore a 4x4 m arena with obstacles
+- Utilized SLAM and LiDAR data, as well as Nav2 to generate goals and avoid obstacles
 <!---
 SelloutCZN/SelloutCZN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
