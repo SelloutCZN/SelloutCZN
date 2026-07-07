@@ -7,15 +7,24 @@ Some tidbits about me and what I'm working on:
 ______________________________________________
 # Highlights
 ## TurtleBot3 Waffle navigation (2026)
-*Repository*: https://github.com/SelloutCZN/WaffleBotNavigation
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MSc Robotics | University of Sheffield](https://img.shields.io/badge/MSc%20Robotics-University%20of%20Sheffield-440099?style=flat)
+<br>*Repository*: https://github.com/SelloutCZN/WaffleBotNavigation
 - Designed and developed code for a TurtleBot Waffle to autonomously explore a 4x4 m arena with obstacles
 - Utilized SLAM and LiDAR data, as well as Nav2 to generate goals and avoid obstacles
 ## E-Puck robot navigation (2025)
-*Repository* : https://github.com/SelloutCZN/ePuckNavigation
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MSc Robotics | University of Sheffield](https://img.shields.io/badge/MSc%20Robotics-University%20of%20Sheffield-440099?style=flat)
+<br>*Repository* : https://github.com/SelloutCZN/ePuckNavigation
  - Designed and developed code for a robot to navigate obstacles and objects
  - Utilized a variety of time-of-flight sensors, as well as state-space machines
 ## UBC Thunderbots — RoboCup SSL (2019–2025)
-*Repository*: https://github.com/SelloutCZN/UBCThunderbots
+![RoboCup 2024](https://img.shields.io/badge/RoboCup%202024-2nd%20Place%20Division%20B-silver?style=flat)
+![UBC](https://img.shields.io/badge/-University%20of%20British%20Columbia-002145?style=flat)
+![Mechanical Design](https://img.shields.io/badge/-Mechanical%20Design-4A4A4A?style=flat)
+![Integration](https://img.shields.io/badge/-Integration-4A4A4A?style=flat)
+<br>*Repository*: https://github.com/SelloutCZN/UBCThunderbots
 - 5 years designing and integrating autonomous soccer robots in the RoboCup Small Size League
 - Roles: Mechanical Member → Mechanical Lead → Captain → Integration Lead
 - 🥈 2nd place at RoboCup 2024, Eindhoven, Netherlands
