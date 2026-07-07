@@ -14,6 +14,11 @@ ______________________________________________
 *Repository* : https://github.com/SelloutCZN/ePuckNavigation
  - Designed and developed code for a robot to navigate obstacles and objects
  - Utilized a variety of time-of-flight sensors, as well as state-space machines
+## UBC Thunderbots — RoboCup SSL (2019–2025)
+*Repository*: https://github.com/SelloutCZN/UBCThunderbots
+- 5 years designing and integrating autonomous soccer robots in the RoboCup Small Size League
+- Roles: Mechanical Member → Mechanical Lead → Captain → Integration Lead
+- 🥈 2nd place at RoboCup 2024, Eindhoven, Netherlands
 <!---
 SelloutCZN/SelloutCZN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
