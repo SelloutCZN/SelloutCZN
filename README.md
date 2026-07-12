@@ -22,7 +22,7 @@ ______________________________________________
 <br>*Repository*: https://github.com/SelloutCZN/WaffleBotNavigation
 - Designed and developed code for a TurtleBot Waffle to autonomously explore a 4x4 m arena with obstacles
 - Utilized SLAM and LiDAR data, as well as Nav2 to generate goals and avoid obstacles
-## Autonomous Mobile-Manipulator Robot (2026)
+## Autonomous Mobile-Manipulator Robot (2025)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Mechanical Design](https://img.shields.io/badge/-Mechanical%20Design-4A4A4A?style=flat)
