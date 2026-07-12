@@ -1,5 +1,6 @@
 # Hi, I’m @SelloutCZN, in real life I go by Benjamin (or Yichen)
 Some tidbits about me and what I'm working on:
+- ⚙️ I'm a mechanical/mechatronics engineer at heart, expanding my expertise in electronics, software, and beyond!
 - 🤖 Building autonomous navigation and perception systems — ROS2, SLAM, and deep learning
 - 🎓 I’m practicing C/C++/C#, Linux/Ubuntu, ROS2, and Python as part of my studies in MSc Robotics
 - 👀 I’m passionate about Sports, Music, Photography, and a plethora of video games
