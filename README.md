@@ -5,6 +5,8 @@ Some tidbits about me and what I'm working on:
 - 🎓 I’m practicing C/C++/C#, Linux/Ubuntu, ROS2, and Python as part of my studies in MSc Robotics
 - 👀 I’m passionate about Sports, Music, Photography, and a plethora of video games
 - 📫 You can reach me at yichenlinzhou@gmail.com
+
+Many of my highlighted projects on Github are code-based. To see more details about my hardware work, please take a look at my [Hardware & Mechatronics Portfolio (PDF)](./_YBLZ_Hardware_Portfolio_20260707.pdf).
 ______________________________________________
 # Highlights
 ## Keyword Speech Recognition — CNN (2026)
