@@ -29,7 +29,7 @@ ______________________________________________
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Mechanical Design](https://img.shields.io/badge/-Mechanical%20Design-4A4A4A?style=flat)
 ![MSc Robotics | University of Sheffield](https://img.shields.io/badge/MSc%20Robotics-University%20of%20Sheffield-440099?style=flat)
-<br>*Repository*: [https://github.com/SelloutCZN/ELE435](https://github.com/SelloutCZN/MSc_RoboChallenge)
+<br>*Repository*: [https://github.com/SelloutCZN/MSc_RoboChallenge](https://github.com/SelloutCZN/MSc_RoboChallenge)
 - Designed and built a fully autonomous mobile-manipulator robot from scratch — mechanical design, 3D printing, component selection, and electronics
 - Implemented an 8-state finite state machine in Arduino C++ with encoder-based navigation, ultrasonic wall-following, and a 3-servo arm
 ## E-Puck robot navigation (2025)
